@@ -1,4 +1,6 @@
 {
   "item.testmod.raw_tanzanite": "Raw Tanzanite",
-  "item.testmod.tanzanite": "Tanzanite"
+  "item.testmod.tanzanite": "Tanzanite",
+
+  "itemGroup.minecraft.testmod": "Tanzanite"
 }
