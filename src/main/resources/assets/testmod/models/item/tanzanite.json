@@ -1,5 +1,5 @@
 {
-  "parant": "item/generated",
+  "parent": "item/generated",
   "textures": {
     "layer0": "testmod:item/tanzanite"
   }
