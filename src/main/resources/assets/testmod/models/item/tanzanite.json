@@ -1,0 +1,6 @@
+{
+  "parant": "item/generated",
+  "textures": {
+    "layer0": "testmod:item/tanzanite"
+  }
+}
