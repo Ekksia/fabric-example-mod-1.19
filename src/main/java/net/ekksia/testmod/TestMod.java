@@ -1,5 +1,6 @@
 package net.ekksia.testmod;
 
+import net.ekksia.testmod.blocks.ModBlocks;
 import net.ekksia.testmod.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,6 +14,7 @@ public class TestMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModBlocks.registerModBlocks();
 		ModItems.registerModItems();
 	}
 }
